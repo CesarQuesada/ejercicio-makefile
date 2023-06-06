@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+// Serie de Fibonacci
 int main() {
     int num1 = 0;
     int num2 = 1;
