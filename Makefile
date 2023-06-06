@@ -26,4 +26,4 @@ commit:
 # Comando para sincronizar con el repositorio remoto
 sync:
 	git pull $GIT_URL
-	git push $GI
+	git push $GIT_URL
